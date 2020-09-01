@@ -11,7 +11,6 @@ $backgoundColor2:#fafba4;
 }
 
 .direccionar {
-	font-family: 'Roboto Mono', monospace;
 	padding: 16px;
 	margin: 10px 10px 10px 10px;
 	text-align: center;
@@ -40,7 +39,6 @@ $backgoundColor2:#fafba4;
 	margin: 8px;
 	padding: 16px;
 	font-size: 18px;
-	font-family: 'Roboto Mono', monospace;
 	background-color: pink;
 	color: black;
 }
@@ -62,15 +60,11 @@ $backgoundColor2:#fafba4;
 }
 
 h1 {
-	font-family: 'Roboto Mono', monospace;
 	font-size: 29px;
 	color: black;
 	letter-spacing: 5px;
 }
 
-p {
-	font-family: 'Roboto Mono', monospace;
-}
 
 img #tecnologias {
   	max-width: 100%;
@@ -79,7 +73,6 @@ img #tecnologias {
 
 table {
   	border-collapse: collapse;
-	font-family: 'Roboto Mono', monospace;
 }
 
 table th {
